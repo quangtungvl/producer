@@ -8,5 +8,5 @@ func Number() int {
 
 // String returns a random string.
 func String() string {
-	return "random version 1.0.7"
+	return "random version 2.0.1"
 }
